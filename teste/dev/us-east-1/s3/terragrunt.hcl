@@ -7,5 +7,5 @@ include {
 }
 
 inputs = {
-    name = "teste"
+    name = "teste ciro"
 }
